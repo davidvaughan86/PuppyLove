@@ -1,5 +1,5 @@
 This is a react app with atttached server
-(COMING NOVEMBER 2022)
+(COMING Q1 2023)
 
 -users can create a profile
 -users can upload a picture of their puppy
